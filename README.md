@@ -1,4 +1,4 @@
-ilirixOS
+IlirixOS
 ========
 
 OS nga Erion Gjoni 
